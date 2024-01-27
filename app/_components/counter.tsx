@@ -9,6 +9,7 @@ export function Counter() {
 
   return (
     <div>
+      <p>THIS IS A CLIENT COMPONENT BELOW</p>
       <button onClick={decrement} className="p-2 px-6 bg-red-200 rounded-md">
         Decrement
       </button>
